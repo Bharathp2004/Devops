@@ -1,1 +1,4 @@
 # Devops
+aws
+sonarqube
+  
